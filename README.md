@@ -1,12 +1,7 @@
 <h1 align = "center">Food app on React and TypeScript</h1>
 <p><b>Description: </b>A food app that was written with Typescript and React. I used different hooks and made a request to the server using axios, I used the Framer Motion library for animations. Users can enter a dish or some ingredient and get different options with the ability to see the recipe.</p> 
 <a href = "https://vladyslavos.github.io/React_Food/">LIVE</a>
-
-
-
 ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/67589338/193475071-53d7f8b3-12a7-4fc7-a8cd-1fdf10b11242.gif)
-
-
 <b>Technologies that I used:</b>
 <ul>
   <li>HTML 5</li>
