@@ -2,8 +2,8 @@ import React from "react";
 import "./App.css";
 import Recipe from "./components/Recipe";
 import { useRecipes } from "./hooks/recipes";
-
 import BackToTopBtn from "./components/BackToTopBtn";
+
 function App() {
   const { search, recipes, loading, gainSearch, updateSearch } = useRecipes();
   return (
